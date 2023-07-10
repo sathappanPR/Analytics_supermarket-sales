@@ -4,5 +4,5 @@ Salutations to all. I'm happy to announce that my second Excel data analytics pr
 https://www.linkedin.com/posts/sathappanpr2002_github-kaggle-dataanalytics-activity-7084071132760317952-P2F5?utm_source=share&utm_medium=member_desktop
 ### Sample image
 ![Screenshot (6)](https://github.com/sathappanPR/Analytics_supermarket-sales/assets/84607354/41668b95-2b0d-482b-80ca-ec516d923ab6)
-### Kaggle dataset 
+### <img src="https://github.com/sathappanPR/Analytics_supermarket-sales/assets/84607354/adf74ae8-51f2-4e6e-8087-e296c4900c3d" width="15"> Kaggle dataset 
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
